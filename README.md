@@ -163,4 +163,4 @@ I used the following prompt in ChatGPT to scaffold the initial implementation:
 
 After reviewing the output and tweaking the prompt when necessary I created a VS solution from the output.  Once the VS solution was up and running I tested using the example file and made sure I was happy with the response.
 
-A future enhacement would be to add a repository layer so you could adstract the data source away from the classification code.  This would allow easier externsion of the program to introduce new data source e.g. a database to read the data from with less rework of other aspects of the code base.
+A future enhancement would be to add a repository layer so you could abstract the data source away from the classification code.  This would allow easier extension of the program to introduce new data source e.g. a database to read the data from with less rework of other aspects of the code base.
